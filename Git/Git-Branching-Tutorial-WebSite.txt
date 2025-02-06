@@ -1,0 +1,3 @@
+https://learngitbranching.js.org/?locale=en_US
+
+https://git-scm.com/book/en/v2
